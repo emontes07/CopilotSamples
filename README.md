@@ -18,11 +18,6 @@ This sample implements a Teams message extension that can be used as a plugin fo
 
 ![Screenshot of the sample extension with action to add a supplier in Copilot for Microsoft 365 in Teams](./assets/action-me-plugin.png)
 
-## Version history
-
-Version|Manifest version|Date|Author|Comments
--------|--|--|----|--------
-1.0|1.16|July 31, 2024 |Bob German, <br/>Garry Trinder, <br>Rabia Williams<br/>|Northwind plugin with Action commands.
 
 ## Prerequisites
 
